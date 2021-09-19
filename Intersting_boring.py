@@ -14,4 +14,6 @@ with open("dataset_24476_3.txt","r",encoding="utf-8") as f:
             print("Interesting")
         else:
             print("Boring")
-#This code accepts a list of numbers from a file .txt in the form: 1 number on 1 line and outputs "Interesting" if there is some interesting fact about this number and "Boring" if not.
+#This code accepts a list of numbers from a file .txt in the form: 1 number on 1 line
+#and outputs "Interesting" if there is some interesting fact about this number and "Boring" if not.
+#The file with the numbers should be added to 1 folder with the code and the file name should be written in 2nd line instead of "dataset_24476_3.txt"
